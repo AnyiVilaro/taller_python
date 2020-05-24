@@ -1,0 +1,10 @@
+Anyi Milena Vilaró de la Ossa
+
+Ejercicio1_Contador.py
+Ejercicio2_Cuenta.py
+Ejercicio3_Persona.py
+Ejercicio4: Vehiculos.py
+
+Conclusiones y Observaciones:
+La programación orientada a objetos nos ayuda a escribir código de una forma más organizada.
+El uso de clases y funciones permiten la creación de objetos de una forma dinamica.
